@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T21:58:28.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="lcHPSMR-MHXo7WpX42yB" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T22:35:11.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ola6Os3bKPAzVIuH0J2T" version="22.0.8" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="983" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -61,10 +61,10 @@
         <mxCell id="27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
           <mxGeometry x="20" y="120" width="450" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="28" value="Article 2" style="text;spacingTop=-5;" parent="1" vertex="1">
+        <mxCell id="28" value="In spot 1" style="text;spacingTop=-5;" parent="1" vertex="1">
           <mxGeometry x="20" y="120" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="29" value="\" style="text;spacingTop=-5;whiteSpace=wrap;align=left" parent="1" vertex="1">
+        <mxCell id="29" value="Stay Isolated and take care of all the measures &#xa;&#xa;Prevention is better the  cure for more info check the second article&#xa;&#xa;---------------&#xa;&#xa;--------------&#xa;..." style="text;spacingTop=-5;whiteSpace=wrap;align=left" parent="1" vertex="1">
           <mxGeometry x="20" y="150" width="440" height="190" as="geometry" />
         </mxCell>
         <mxCell id="30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.iconGrid;strokeColor=#CCCCCC;gridSize=1,1;" parent="1" vertex="1">
